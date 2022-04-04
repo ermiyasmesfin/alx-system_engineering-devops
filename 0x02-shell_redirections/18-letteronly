@@ -1,2 +1,2 @@
 #!/bin/bash
-sed [[:alpha:]*] /etc/ssh/sshd_config
+sed /etc/ssh/sshd_config
