@@ -1,8 +1,4 @@
-#Holberton School - attack_is_the_best_defense
-Intro to offensive security
 
-## New commands / functions used:
-``tcpdump``, ``hydra``, ``telnet``
 
 ## Helpful Links
 * [Network sniffing](https://www.lifewire.com/definition-of-sniffer-817996)
